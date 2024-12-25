@@ -20,4 +20,4 @@ Bu proje, **ASP.NET Core** kullanılarak geliştirilen bir **kullanıcı kayıt 
 - **Bootstrap 5** - Kullanıcı arayüzü tasarımı  
 - **Identity Framework** - Kimlik doğrulama sistemi  
 
----
+[Video Screen1735159456679.webm](https://github.com/user-attachments/assets/2ae1612e-1860-469a-9014-e743b79fa34f)
